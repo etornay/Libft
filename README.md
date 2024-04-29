@@ -1,4 +1,4 @@
-1.onsideraciones técnicas:
+1. Consideraciones técnicas:
 
 • Declarar variables globales está prohibido.
 • Si necesitas separar una función compleja en varias, asegúrate de utilizar la palabra
