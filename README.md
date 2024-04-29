@@ -68,7 +68,7 @@ Deberás escribir tus propias funciones implementando las siguientes funciones o
 
 **• atoi**
 
-Para implementar estas otras dos funciones, tendrás que utilizar malloc():
+_Para implementar estas otras dos funciones, tendrás que utilizar malloc():_
 
 **• calloc**
 
