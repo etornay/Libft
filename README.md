@@ -17,6 +17,7 @@ prohibido.
 • Tu libft.a tiene que ser creado en la raíz del repositorio.
 
 
+
 2. Parte 1 - Funciones de libc:
 
 Para empezar, deberás rehacer algunas funciones de la libc. Tus funciones tendrán los
