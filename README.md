@@ -1,4 +1,4 @@
-<h2>1. Consideraciones técnicas:</h2>
+<h1>1. Consideraciones técnicas:</h1>
 
 • Declarar variables globales está prohibido.
 
@@ -18,7 +18,7 @@ prohibido.
 
 
 
-2. Parte 1 - Funciones de libc:
+<h1>2. Parte 1 - Funciones de libc:</h1>
 
 Para empezar, deberás rehacer algunas funciones de la libc. Tus funciones tendrán los
 mismos prototipos e implementarán los mismos comportamientos que las funciones originales. Deberán ser tal y como las describe el man. La única diferencia será la nomenclatura.
@@ -26,50 +26,50 @@ Empezarán con el prefijo “ft_”. Por ejemplo, strlen se convertirá en ft_st
 
 Deberás escribir tus propias funciones implementando las siguientes funciones originales. No requieren de funciones autorizadas:
 
-• isalpha
+**• isalpha**
 
-• isdigit
+**• isdigit**
 
-• isalnum
+**• isalnum**
 
-• isascii
+**• isascii**
 
-• isprint
+**• isprint**
 
-• strlen
+**• strlen**
 
-• memset
+**• memset**
 
-• bzero
+**• bzero**
 
-• memcpy
+**• memcpy**
 
-• memmove
+**• memmove**
 
-• strlcpy
+**• strlcpy**
 
-• strlcat
+**• strlcat**
 
-• toupper
+**• toupper**
 
-• tolower
+**• tolower**
 
-• strchr
+**• strchr**
 
-• strrchr
+**• strrchr**
 
-• strncmp
+**• strncmp**
 
-• memchr
+**• memchr**
 
-• memcmp
+**• memcmp**
 
-• strnstr
+**• strnstr**
 
-• atoi
+**• atoi**
 
 Para implementar estas otras dos funciones, tendrás que utilizar malloc():
 
-• calloc
+**• calloc**
 
-• strdup
+**• strdup**
