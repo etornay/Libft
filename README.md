@@ -18,7 +18,7 @@ prohibido.
 
 
 
-<h1>2. Parte 1 - Funciones de libc:</h1>
+<h1>2. Funciones de libc:</h1>
 
 Para empezar, deberás rehacer algunas funciones de la libc. Tus funciones tendrán los
 mismos prototipos e implementarán los mismos comportamientos que las funciones originales. Deberán ser tal y como las describe el man. La única diferencia será la nomenclatura.
