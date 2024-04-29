@@ -1,4 +1,4 @@
-1. Consideraciones técnicas:
+<h2>1. Consideraciones técnicas:</h2>
 
 • Declarar variables globales está prohibido.
 
